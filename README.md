@@ -1,4 +1,8 @@
-# Excel Sales and Finance Analysis Reports
+# Excel Sales and Finance Analysis Reports <br>
+
+<img src=https://github.com/sayanb28/Sales_Finance__Analysis_Excel/assets/170934465/ba5f1ede-04dd-418a-aaf9-e197cc9744ae width="1080px"><br>
+
+<h2 align="center">Sales and Finance Report using Excel and DAX, analyzing key financial metrics and showcasing significant year-over-year growth in Net Sales and Gross Margin.</h2><br>
 
 ## Sales Report :
 
@@ -10,7 +14,7 @@
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance. 
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Identify sales patterns and track **Key Performance Indicators (KPIs)**.
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising Products.
 
