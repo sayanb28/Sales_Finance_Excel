@@ -1,6 +1,6 @@
 # Excel Sales and Finance Analysis Reports <br>
 
-<img src=https://github.com/sayanb28/Sales_Finance__Analysis_Excel/assets/170934465/c41de9e2-d781-40e5-bab6-14837ee85e03 width="1080px"><br>
+<img src=https://github.com/sayanb28/Sales_Finance__Analysis_Excel/assets/170934465/ba5f1ede-04dd-418a-aaf9-e197cc9744ae width="1080px"><br>
 
 <h2 align="center">Sales and Finance Report using Excel and DAX, analyzing key financial metrics and showcasing significant year-over-year growth in Net Sales and Gross Margin.</h2><br>
 
